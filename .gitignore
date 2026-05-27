@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+.pytest_cache/
+
+# Env
+.env
+*.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Docker volumes
+postgres_data/
+faq_db/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
